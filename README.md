@@ -1,4 +1,7 @@
-
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red)
+![ROS](https://img.shields.io/badge/ROS-Noetic-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 
 # NXS — Nexus Exchange System
