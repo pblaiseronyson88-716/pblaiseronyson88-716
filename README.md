@@ -1,16 +1,72 @@
-## Hi there 👋
 
-<!--
-**pblaiseronyson88-716/pblaiseronyson88-716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# NXS — Nexus Exchange System
+
+**AI Engineer** • **PyTorch** • **NumPy** • **ROS** • **Web Developer** • **Systems Optimizer**
+
+I turn wasted compute into measurable value.
+
+---
+
+## About
+
+I optimize the resources that are usually ignored:
+- GPU idle time
+- VRAM waste  
+- CPU inefficiency
+- slow inference pipelines
+- poor system utilization
+
+My mission is to transform underused infrastructure into higher-value performance.
+
+---
+
+## Core Projects
+
+### NXS Optimize
+Performance analysis platform for GPU, VRAM, and CPU optimization.
+- detect idle or ghost processes
+- identify memory leaks
+- estimate savings in compute cost
+- improve training and inference efficiency
+
+### CMOS Inverter Simulation
+SPICE-based simulation and analysis of a CMOS inverter.
+- transfer characteristic
+- noise margins
+- dynamic power
+- theoretical comparison against simulation results
+
+### Apex Spectral
+Early-stage product concept for environmental monitoring and safety.
+Focus on compact modular sensing, alert systems, and intelligent anomaly detection.
+
+---
+
+## Technical Stack
+
+**AI & ML:** PyTorch • NumPy • TensorFlow • Scikit-learn  
+**Robotics:** ROS • Embedded Systems • Real-time Processing  
+**Backend:** Python • C/C++  
+**Frontend:** JavaScript • TypeScript • HTML/CSS  
+**Data:** Data Analysis • Visualization • Processing  
+
+---
+
+## Vision
+
+Build NXS as a real innovation engine:
+- high-impact optimization
+- sustainable technical systems
+- intelligent infrastructure
+- practical solutions for real-world bottlenecks
+
+> "You cannot recycle an HBM, but you can recycle the GPU hours nobody is using."
+
+---
+
+## Let's Connect
+
+📧 GitHub: [@pblaiseronyson88-716](https://github.com/pblaiseronyson88-716)  
+💼 Open to collaborations, projects, and innovation
